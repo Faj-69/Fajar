@@ -1,2 +1,2 @@
-# fAJAR
+# FAJAR
 nih pa
